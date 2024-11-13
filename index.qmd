@@ -1,0 +1,15 @@
+---
+title: "Bouagba Anasse Yahanan"
+image: m.png
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/anasse-yahanan-bouagba-3b39aa242/
+    - icon: github
+      text: Github
+      href: https://github.com/yahn78
+---
+
+Je combine une expertise en statistiques et data science avec une expérience pratique en suivi-évaluation de projets sociaux. Titulaire d'un Master en Data Science, j'excelle dans l'analyse des données, la modélisation prédictive et le développement d'applications analytiques avec R et Python. En tant qu'Assistant MEL et formateur consultant, je transforme les données complexes en insights actionnables, guidant la prise de décision à travers des tableaux de bord dynamiques et des analyses approfondies.

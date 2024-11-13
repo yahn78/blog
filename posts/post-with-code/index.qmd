@@ -1,0 +1,13 @@
+---
+title: "Prediction de cancer du sein"
+author: "Bouagba Anasse Yahanan"
+date: "2024-11-12"
+categories: [code, analysis, machine learning, python]
+image: "image.jpg"
+---
+
+J'ai développé une application web innovante de détection précoce du cancer du sein, propulsée par l'intelligence artificielle et construite avec Streamlit et Python. Cette solution permet aux professionnels de santé d'obtenir rapidement une évaluation prédictive basée sur les données médicales de leurs patients. À travers une interface intuitive, l'application analyse en temps réel différents paramètres médicaux grâce à des algorithmes de machine learning sophistiqués, générant des visualisations interactives et des prédictions fiables. Ce projet, qui respecte les normes de confidentialité des données médicales, illustre parfaitement comment la technologie peut soutenir les professionnels de santé dans leur processus de diagnostic préliminaire \[Pour plus d'info\] (<https://github.com/yahn78/tumeur-du-sein-streamlit-App>){target = '\_blank'}
+
+```{r}
+1 + 1
+```
